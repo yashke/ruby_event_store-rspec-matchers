@@ -1,7 +1,7 @@
 require "ruby_event_store/rspec/matchers/version"
 
 module RubyEventStore
-  module Rspec
+  module RSpec
     module Matchers
       # Your code goes here...
     end
